@@ -1,0 +1,5 @@
+{
+  "name": "TrekkMitra",
+  "description": "Premium trekking platform for exploring and booking adventures in Maharashtra and the Himalayas.",
+  "requestFramePermissions": ["geolocation"]
+}
